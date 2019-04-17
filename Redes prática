@@ -1,0 +1,36 @@
+//Prompt de comando 
+1. windows R
+2. CMD
+3. arp =
+4. arp -a = 
+5. ipconfig= apresenta informações sobre configurações (ao inserir apresenta o endereço da máquina)
+6. saber opções digita ?
+7. ipconfig /al = exibe 
+8. ipconfig /renew = renovar o endereço 
+9. ipconfig /release = cai a conexão 
+10. ping = mostra o menu 
+11. placa de rede = ping 127.0.0.1
+12.ipconfig = 10.9.0.1
+13. ping +ipdamáquina depois ping -n 8 ipmáquina
+14.ping infinito = ping -t 10.9.0.1 (como para essa merda? ctrl C
+15.ping -l 1500 10.9.0.1
+16.ping -l 1500 -t 10.9.0.1 
+17. tracert = comando utilizado para verificar a rota que será traçada
+18. netstat = estatisticas do protocolo de rede
+19. ?= digita e aparece o menu 
+20. cada linha é um processo que está sendo executado. 
+21. netstat -a= detalhamento maior das estatisticas dos processos NBSTAT
+22. nbtstat 
+23. pathping = envia pacotes para cada roteador no caminho para o destino final em um período de tempo e computa os resultados baseado 
+nos pacotes retornados em cada salto. É uma mistura do ping com tracert
+
+
+
+
+
+
+
+
+
+
+
